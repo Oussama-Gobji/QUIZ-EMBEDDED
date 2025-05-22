@@ -11,7 +11,7 @@ const StartScreen = ({ navigation }) => {
     >
       <View style={styles.content}>
         <Image
-          source={{ uri: 'https://reactnative.dev/img/tiny_logo.png' }}
+          source={require('../assets/chip_logo.jpg')}
           style={styles.logo}
         />
         <Text style={styles.title}>Quiz Systems Embarqués</Text>
