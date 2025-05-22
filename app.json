@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Quiz Systems Embarqués",
+    "slug": "quiz-systems-embarques",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2D2D2D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2D2D2D"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.quiz.systemsembarques"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
