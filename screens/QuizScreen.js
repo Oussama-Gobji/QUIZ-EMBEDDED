@@ -353,20 +353,20 @@ const styles = StyleSheet.create({
     color: '#333',
   },
   footer: {
-    marginTop: 20,
+    marginTop: 10,
     alignItems: 'center',
   },
   score: {
     fontSize: 18,
     fontWeight: 'bold',
     color: '#fff',
-    marginBottom: 10,
+    marginBottom: 5,
   },
   progressBar: {
     width: '100%',
     height: 10,
     borderRadius: 5,
-    marginBottom: 20,
+    marginBottom: 10,
   },
   nextButton: {
     backgroundColor: '#fff',
@@ -374,6 +374,7 @@ const styles = StyleSheet.create({
     paddingVertical: 15,
     borderRadius: 25,
     elevation: 3,
+    marginTop: -5,
   },
   nextButtonText: {
     fontSize: 16,
