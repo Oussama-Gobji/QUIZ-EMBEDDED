@@ -315,15 +315,19 @@ const QuizScreen = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    justifyContent: 'center',
   },
   scrollView: {
     flex: 1,
     padding: 20,
+    justifyContent: 'center',
   },
   card: {
     marginBottom: 20,
     elevation: 4,
     borderRadius: 15,
+    marginTop: 'auto',
+    marginBottom: 'auto',
   },
   questionNumber: {
     fontSize: 16,
