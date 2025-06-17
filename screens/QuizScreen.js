@@ -74,7 +74,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel est l’équivalent de “sauvegarder” en Git ?",
+    question: 'Quel est l\'équivalent de "sauvegarder" en Git ?',
     options: ["git save", "git push", "git commit", "git backup"],
     correctOption: 2,
     points: 5
@@ -141,7 +141,7 @@ const questions = [
     question: "Power BI est principalement utilisé pour :",
     options: [
       "Le stockage de données",
-      "L’analyse et la visualisation de données",
+      "L'analyse et la visualisation de données",
       "Le codage",
       "La gestion de version"
     ],
@@ -224,7 +224,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel est l’objectif principal de SCCM ?",
+    question: "Quel est l'objectif principal de SCCM ?",
     options: [
       "Gérer les appareils, les mises à jour et la sécurité dans une entreprise",
       "Créer des sites web dynamiques",
@@ -258,7 +258,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle commande Linux liste les fichiers d’un répertoire ?",
+    question: "Quelle commande Linux liste les fichiers d'un répertoire ?",
     options: ["ls", "pwd", "mkdir", "cat"],
     correctOption: 0,
     points: 5
@@ -287,7 +287,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel est l’objectif principal d’un pipeline Jenkins ?",
+    question: "Quel est l'objectif principal d'un pipeline Jenkins ?",
     options: [
       "Créer des machines virtuelles",
       "Automatiser les tâches de développement",
@@ -349,7 +349,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel outil permet d’orchestrer plusieurs conteneurs Docker ?",
+    question: "Quel outil permet d'orchestrer plusieurs conteneurs Docker ?",
     options: ["Jenkins", "Kubernetes", "Azure CLI", "Git"],
     correctOption: 1,
     points: 5
@@ -406,7 +406,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Que signifie le statut ‘404’ en HTTP ?",
+    question: "Que signifie le statut '404' en HTTP ?",
     options: [
       "Requête réussie",
       "Serveur non disponible",
@@ -479,7 +479,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle méthode Python renvoie la longueur d’une chaîne ?",
+    question: "Quelle méthode Python renvoie la longueur d'une chaîne ?",
     options: ["length()", "count()", "size()", "len()"],
     correctOption: 3,
     points: 5
@@ -508,7 +508,7 @@ const questions = [
     points: 5
   },
   {
-    question: "En JavaScript, que fait '===’ ?",
+    question: "En JavaScript, que fait '==='?",
     options: [
       "Compare la valeur uniquement",
       "Compare la valeur et le type",
@@ -627,7 +627,7 @@ const questions = [
     options: [
       "Télécharger une image Docker",
       "Exécuter un conteneur",
-      "Créer une image Docker à partir d’un Dockerfile",
+      "Créer une image Docker à partir d'un Dockerfile",
       "Mettre à jour Docker"
     ],
     correctOption: 2,
@@ -657,7 +657,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle commande Git permet d’annuler un commit local avant de le pousser ?",
+    question: "Quelle commande Git permet d'annuler un commit local avant de le pousser ?",
     options: [
       "git revert",
       "git reset --soft HEAD~1",
@@ -679,7 +679,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle est la portée d’une variable déclarée avec 'let' en JavaScript ?",
+    question: "Quelle est la portée d'une variable déclarée avec 'let' en JavaScript ?",
     options: [
       "Globale",
       "Locale au bloc",
@@ -696,7 +696,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel service AWS permet d’exécuter du code sans gérer les serveurs ?",
+    question: "Quel service AWS permet d'exécuter du code sans gérer les serveurs ?",
     options: [
       "EC2",
       "Lambda",
@@ -718,7 +718,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle commande Linux affiche les 10 premières lignes d’un fichier ?",
+    question: "Quelle commande Linux affiche les 10 premières lignes d'un fichier ?",
     options: ["head", "tail", "cat", "less"],
     correctOption: 0,
     points: 5
@@ -730,12 +730,12 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel composant SharePoint permet de créer un site d’équipe ?",
+    question: "Quel composant SharePoint permet de créer un site d'équipe ?",
     options: [
       "Liste",
       "Bibliothèque",
       "Site Communication",
-      "Site d’équipe"
+      "Site d'équipe"
     ],
     correctOption: 3,
     points: 5
@@ -743,7 +743,7 @@ const questions = [
   {
     question: "Que signifie 'commit' en gestion de version Git ?",
     options: [
-      "Enregistrer les changements dans l’historique",
+      "Enregistrer les changements dans l'historique",
       "Fusionner deux branches",
       "Créer une nouvelle branche",
       "Télécharger un dépôt"
@@ -763,7 +763,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel service GCP permet d’héberger des bases de données relationnelles ?",
+    question: "Quel service GCP permet d'héberger des bases de données relationnelles ?",
     options: [
       "Cloud SQL",
       "Cloud Storage",
@@ -796,7 +796,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle commande PowerShell permet d’installer un module ?",
+    question: "Quelle commande PowerShell permet d'installer un module ?",
     options: [
       "Install-Module",
       "Add-Module",
@@ -840,7 +840,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle commande Docker affiche les conteneurs en cours d’exécution ?",
+    question: "Quelle commande Docker affiche les conteneurs en cours d'exécution ?",
     options: [
       "docker ps",
       "docker ls",
@@ -851,7 +851,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel est l’avantage principal de l’utilisation de Docker ?",
+    question: "Quel est l'avantage principal de l'utilisation de Docker ?",
     options: [
       "Isolation des applications dans des conteneurs légers",
       "Augmentation de la mémoire RAM",
@@ -862,7 +862,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle commande Git permet d’envoyer les modifications locales vers un dépôt distant ?",
+    question: "Quelle commande Git permet d'envoyer les modifications locales vers un dépôt distant ?",
     options: ["git pull", "git push", "git commit", "git clone"],
     correctOption: 1,
     points: 5
@@ -890,7 +890,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel service Azure est utilisé pour l’orchestration de conteneurs ?",
+    question: "Quel service Azure est utilisé pour l'orchestration de conteneurs ?",
     options: [
       "Azure Blob Storage",
       "Azure Kubernetes Service (AKS)",
@@ -901,7 +901,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel outil est utilisé pour la surveillance et l’analyse des performances sur AWS ?",
+    question: "Quel outil est utilisé pour la surveillance et l'analyse des performances sur AWS ?",
     options: [
       "CloudWatch",
       "CloudTrail",
@@ -945,7 +945,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle est la commande pour créer une nouvelle branche en Git et s’y positionner ?",
+    question: "Quelle est la commande pour créer une nouvelle branche en Git et s'y positionner ?",
     options: [
       "git branch -m <nom>",
       "git checkout -b <nom>",
@@ -958,7 +958,7 @@ const questions = [
   {
     question: "En Python, que fait la commande 'import pandas as pd' ?",
     options: [
-      "Charge la bibliothèque pandas avec l’alias pd",
+      "Charge la bibliothèque pandas avec l'alias pd",
       "Crée une nouvelle variable pd",
       "Supprime la bibliothèque pandas",
       "Renomme un fichier en pd"
@@ -989,7 +989,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel service AWS est conçu pour le stockage d’objets volumineux et non structurés ?",
+    question: "Quel service AWS est conçu pour le stockage d'objets volumineux et non structurés ?",
     options: [
       "Amazon S3",
       "Amazon EC2",
@@ -1000,7 +1000,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Dans un pipeline CI/CD, quel est l’objectif principal ?",
+    question: "Dans un pipeline CI/CD, quel est l'objectif principal ?",
     options: [
       "Automatiser le déploiement et les tests",
       "Créer des graphiques",
@@ -1055,7 +1055,7 @@ const questions = [
     points: 5
   },
   {
-    question: "En JavaScript, quelle méthode permet d’ajouter un élément à la fin d’un tableau ?",
+    question: "En JavaScript, quelle méthode permet d'ajouter un élément à la fin d'un tableau ?",
     options: [
       "push()",
       "pop()",
@@ -1081,7 +1081,7 @@ const questions = [
     options: [
       "Orchestration de conteneurs",
       "Gestion des bases de données",
-      "Développement d’applications web",
+      "Développement d'applications web",
       "Analyse de données"
     ],
     correctOption: 0,
@@ -1134,7 +1134,7 @@ const questions = [
   {
     question: "Dans Docker, que fait la commande 'docker build' ?",
     options: [
-      "Construire une image à partir d’un Dockerfile",
+      "Construire une image à partir d'un Dockerfile",
       "Lancer un conteneur",
       "Lister les conteneurs",
       "Supprimer une image"
@@ -1143,7 +1143,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel outil permet de créer des tableaux de bord interactifs pour l’analyse des données ?",
+    question: "Quel outil permet de créer des tableaux de bord interactifs pour l'analyse des données ?",
     options: [
       "Power BI",
       "Docker",
@@ -1165,7 +1165,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quelle commande Git permet de voir l’historique des commits ?",
+    question: "Quelle commande Git permet de voir l'historique des commits ?",
     options: [
       "git log",
       "git status",
@@ -1178,7 +1178,7 @@ const questions = [
   {
     question: "En JavaScript, que fait la méthode 'map()' ?",
     options: [
-      "Transforme chaque élément d’un tableau",
+      "Transforme chaque élément d'un tableau",
       "Filtre les éléments",
       "Ajoute un élément à la fin",
       "Supprime un élément"
@@ -1187,7 +1187,7 @@ const questions = [
     points: 5
   },
   {
-    question: "Quel système d’exploitation est majoritairement utilisé pour les serveurs Linux ?",
+    question: "Quel système d'exploitation est majoritairement utilisé pour les serveurs Linux ?",
     options: [
       "Ubuntu",
       "Windows 10",
@@ -1264,7 +1264,7 @@ const questions = [
     points: 5
   },
   {
-    question: "En Python, quelle bibliothèque est principalement utilisée pour l’analyse de données ?",
+    question: "En Python, quelle bibliothèque est principalement utilisée pour l'analyse de données ?",
     options: [
       "Pandas",
       "NumPy",
@@ -1285,38 +1285,94 @@ const questions = [
     correctOption: 0,
     points: 5
   }
-
 ];
 
 const QuizScreen = ({ navigation }) => {
-  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
-  const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [showResult, setShowResult] = useState(false);
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
+  const [showFeedback, setShowFeedback] = useState(false);
   const theme = useTheme();
 
   const handleAnswer = (selectedIndex) => {
     setSelectedAnswer(selectedIndex);
-    if (selectedIndex === questions[currentQuestion].correctOption) {
-      setScore(score + questions[currentQuestion].points);
+    setShowFeedback(true);
+    
+    if (selectedIndex === questions[currentQuestionIndex].correctOption) {
+      setScore(score + questions[currentQuestionIndex].points);
     }
   };
 
   const handleNext = () => {
-    if (currentQuestion < questions.length - 1) {
-      setCurrentQuestion(currentQuestion + 1);
-      setSelectedAnswer(null);
+    setShowFeedback(false);
+    setSelectedAnswer(null);
+    
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
     } else {
       setShowResult(true);
-      navigation.navigate('Result', {
-        score: score,
-        totalQuestions: questions.length,
-        maxScore: questions.length * 5
-      });
     }
   };
 
-  const progress = (currentQuestion + 1) / questions.length;
+  const progress = (currentQuestionIndex + 1) / questions.length;
+
+  const renderQuestion = () => {
+    const question = questions[currentQuestionIndex];
+    return (
+      <Card style={styles.questionCard}>
+        <Card.Content>
+          <Text style={styles.questionText}>
+            {currentQuestionIndex + 1}. {question.question}
+          </Text>
+          <View style={styles.optionsContainer}>
+            {question.options.map((option, index) => (
+              <TouchableOpacity
+                key={index}
+                onPress={() => handleAnswer(index)}
+                disabled={showFeedback}
+                style={[
+                  styles.optionButton,
+                  selectedAnswer === index && styles.selectedOption,
+                  showFeedback && index === question.correctOption && styles.correctOption,
+                  showFeedback && selectedAnswer === index && index !== question.correctOption && styles.wrongOption,
+                ]}
+              >
+                <Text style={[
+                  styles.optionText,
+                  selectedAnswer === index && styles.selectedOptionText,
+                  showFeedback && index === question.correctOption && styles.correctOptionText,
+                  showFeedback && selectedAnswer === index && index !== question.correctOption && styles.wrongOptionText,
+                ]}>
+                  {option}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+          {showFeedback && (
+            <View style={styles.feedbackContainer}>
+              <Text style={[
+                styles.feedbackText,
+                selectedAnswer === question.correctOption ? styles.correctFeedback : styles.wrongFeedback
+              ]}>
+                {selectedAnswer === question.correctOption 
+                  ? "Correct !" 
+                  : `Incorrect. La bonne réponse était : ${question.options[question.correctOption]}`}
+              </Text>
+              <TouchableOpacity
+                style={styles.nextButton}
+                onPress={handleNext}
+              >
+                <Text style={styles.nextButtonText}>
+                  {currentQuestionIndex < questions.length - 1 ? "Question suivante" : "Voir les résultats"}
+                </Text>
+              </TouchableOpacity>
+            </View>
+          )}
+        </Card.Content>
+      </Card>
+    );
+  };
 
   return (
     <LinearGradient
@@ -1324,31 +1380,7 @@ const QuizScreen = ({ navigation }) => {
       style={styles.container}
     >
       <ScrollView style={styles.scrollView}>
-        <Card style={styles.card}>
-          <Card.Content>
-            <Text style={styles.questionNumber}>
-              Question {currentQuestion + 1}/{questions.length}
-            </Text>
-            <Text style={styles.question}>
-              {questions[currentQuestion].question}
-            </Text>
-            <View style={styles.optionsContainer}>
-              {questions[currentQuestion].options.map((option, index) => (
-                <TouchableOpacity
-                  key={index}
-                  style={[
-                    styles.optionButton,
-                    selectedAnswer === index && styles.selectedOption
-                  ]}
-                  onPress={() => handleAnswer(index)}
-                  disabled={selectedAnswer !== null}
-                >
-                  <Text style={styles.optionText}>{option}</Text>
-                </TouchableOpacity>
-              ))}
-            </View>
-          </Card.Content>
-        </Card>
+        {renderQuestion()}
 
         <View style={styles.footer}>
           <Text style={styles.score}>Score: {score}</Text>
@@ -1357,16 +1389,6 @@ const QuizScreen = ({ navigation }) => {
             color={theme.colors.primary}
             style={styles.progressBar}
           />
-          {selectedAnswer !== null && (
-            <TouchableOpacity
-              style={styles.nextButton}
-              onPress={handleNext}
-            >
-              <Text style={styles.nextButtonText}>
-                {currentQuestion < questions.length - 1 ? 'Suivant' : 'Terminer'}
-              </Text>
-            </TouchableOpacity>
-          )}
         </View>
       </ScrollView>
     </LinearGradient>
@@ -1433,18 +1455,69 @@ const styles = StyleSheet.create({
     borderRadius: 5,
     marginBottom: 10,
   },
+  questionCard: {
+    marginBottom: 20,
+    elevation: 4,
+    borderRadius: 15,
+  },
+  questionText: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginBottom: 20,
+    color: '#333',
+  },
+  optionButton: {
+    backgroundColor: '#f0f0f0',
+    padding: 15,
+    borderRadius: 10,
+    marginBottom: 10,
+  },
+  selectedOption: {
+    backgroundColor: '#E3F2FD',
+    borderColor: '#2196F3',
+  },
+  correctOption: {
+    backgroundColor: '#E8F5E9',
+    borderColor: '#4CAF50',
+  },
+  wrongOption: {
+    backgroundColor: '#FFEBEE',
+    borderColor: '#F44336',
+  },
+  selectedOptionText: {
+    color: '#2196F3',
+  },
+  correctOptionText: {
+    color: '#4CAF50',
+  },
+  wrongOptionText: {
+    color: '#F44336',
+  },
+  feedbackContainer: {
+    marginTop: 20,
+    alignItems: 'center',
+  },
+  feedbackText: {
+    fontSize: 18,
+    marginBottom: 15,
+    textAlign: 'center',
+  },
+  correctFeedback: {
+    color: '#4CAF50',
+  },
+  wrongFeedback: {
+    color: '#F44336',
+  },
   nextButton: {
-    backgroundColor: '#fff',
-    paddingHorizontal: 30,
-    paddingVertical: 15,
-    borderRadius: 25,
-    elevation: 3,
-    marginTop: -5,
+    backgroundColor: '#2196F3',
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    borderRadius: 5,
   },
   nextButtonText: {
+    color: 'white',
     fontSize: 16,
     fontWeight: 'bold',
-    color: '#4c669f',
   },
 });
 
